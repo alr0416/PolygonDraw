@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Maven / Gradle dependencies
+/.mvn/
+/target/
+/.idea/
+/*.iml
+/.gradle/
+/build/
+
+# Java specific files
+*.log
+*.jar
+*.war
+*.ear
+
+# JavaFX specific
+/target/
+/*.jre/
+/*.jfx/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java runtime files
+*.swp
